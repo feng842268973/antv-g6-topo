@@ -1,5 +1,5 @@
 # antv-g6-topo
-
+基于antv g6 做的一个简单拓扑图，用到了element ui，元素可以更改，图标可以更改，也会有不同状态
 ## Project setup
 ```
 yarn install
